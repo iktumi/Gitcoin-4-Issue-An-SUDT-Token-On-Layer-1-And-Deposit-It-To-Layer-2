@@ -6,7 +6,7 @@ https://explorer.nervos.org/aggron/address/ckt1qyq8mf7kqwqnnv07lkfwa3fggypltldka
 
 A screenshot of the console output immediately after using sudt-cli to create your SUDT tokens on Layer 1.
 
-![SUDT-CLI-mint_tokens](https://user-images.githubusercontent.com/6120288/128814186-65ac2678-f650-4261-a0aa-e5efdf3338d3.png)
+![SUDT-CLI-mint_tokens](https://github.com/iktumi/Gitcoin-4-Issue-An-SUDT-Token-On-Layer-1-And-Deposit-It-To-Layer-2/blob/main/mintTokens.png)
 
 A link to the transaction ID created by sudt-cli on the Testnet Explorer.
 
