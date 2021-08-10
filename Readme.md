@@ -14,7 +14,7 @@ https://explorer.nervos.org/aggron/transaction/0xb0d5ff4f09a7670d71607d6fca382ba
 
 A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
 
-![Submit Deposit to Layer 2](https://user-images.githubusercontent.com/6120288/128815975-033e6a13-7edd-4c08-9054-90b2399dd08c.png)
+![Submit Deposit to Layer 2](https://github.com/iktumi/Gitcoin-4-Issue-An-SUDT-Token-On-Layer-1-And-Deposit-It-To-Layer-2/blob/main/Layer1ToLayer2.png)
 
 The SUDT ID from the console output after executing the deposit script (in text format).
 
